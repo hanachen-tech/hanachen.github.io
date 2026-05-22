@@ -1,0 +1,118 @@
+---
+title: "About Me & Full Experience"
+---
+
+# About Me
+
+I'm Hana Chen, a results-driven professional with a passion for leveraging data and strategic thinking to drive business growth. With experience spanning digital marketing, data analysis, and business innovation, I combine analytical rigor with creative problem-solving.
+
+Currently based in Boston, MA, I'm pursuing dual graduate degrees to deepen my expertise in applied business analytics and business administration.
+
+---
+
+## 📚 Education
+
+### Master of Applied Business Analytics
+**Boston University** | Sep 2025 – Present
+
+### Master of Business Administration
+**National Taipei University** | Sep 2023 – Present  
+GPA: 4.3/4.3
+
+### Bachelor of International Business and Trade
+**Soochow University** | Sep 2018 – Jun 2022  
+GPA: 4.3/4.3
+
+### Exchange Program
+**Rennes School of Business, France** | Sep 2021 – Feb 2022
+
+---
+
+## 💼 Work Experience
+
+### Impact Learning Intern
+**YouthBuild Global** | Boston, MA | Jan 2026 – May 2026
+
+- Evaluated 2025 annual survey data using Excel to create detailed charts and perform quantitative analyses
+- Identified key trends and actionable insights that enhanced program evaluation reports
+- Developed clear and impactful data visualizations to support decision-making
+- Extracted actionable insights from complex datasets to improve program effectiveness
+
+### Digital Marketing Intern
+**Gamesofa Inc.** | Taipei, Taiwan | Jul 2024 – Jun 2025
+
+- Created marketing content and managed two social media channels (Facebook, Instagram)
+- **Grew followers from 0 to 9,000 within 9 months**
+- Analyzed backend data and generated monthly performance reports on key metrics
+- Received Certificate of Appreciation in Business Category at 2025 Taiwan Original X Award for "CatCafe" project
+
+---
+
+## 🚀 Project Experience
+
+### Brewery Marketing & Business Strategy Project
+**Boston University** | Sep 2025 – Dec 2025
+
+- Developed comprehensive marketing strategy and business plan for brewery launch in Boston
+- Conducted internal and external analyses to determine positioning
+- Designed sustainable promotional campaigns with cost estimation and operational planning
+
+### Delivery Time Analysis for Food Delivery Platforms
+**Boston University** | Sep 2025 – Dec 2025
+
+- Used SQL to analyze and visualize delivery time factors
+- Produced reports combining technical analysis with practical business insights
+- Collaborated effectively within cross-functional team
+
+### Generative AI Food Waste Reduction App Prototype
+**National Taipei University** | Mar 2025 – May 2025
+
+- Co-developed mobile app prototype using generative AI and CursorAI platform
+- Designed user-friendly interface to enhance usability and engagement
+- Applied course concepts to solve real-world sustainability challenges
+
+### Anti-Cyberbullying Solution Design
+**FlyTech Foundation** | Jul 2023 – Aug 2024
+
+- Led team applying design thinking and user persona development
+- Participated in prototyping and testing process
+- Presented at exhibition attended by 100+ participants
+- **Won Popularity Award**
+
+### OTOP Marketing Competition
+**Ministry of Economic Affairs, R.O.C.** | Mar 2023 – Oct 2023
+
+- Led team in developing marketing strategy and competitive analysis
+- Conducted market research to refine campaign approach
+- **Achieved Bronze Award** for innovative branding and storytelling
+
+---
+
+## 🎓 Certificates & Skills
+
+### Languages
+- English (Proficient, Duolingo 120)
+- Mandarin (Native)
+
+### Professional Certifications
+- Sololearn – Python Developer
+- Sololearn – Introduction to SQL
+- NVIDIA – Building RAG Agents with LLMs
+- NVIDIA – Efficient Large Language Model Customization
+- NVIDIA – Generative AI with Diffusion Models
+
+### Technical Skills
+
+**Data Analysis & Visualization:** Excel | PowerPoint | Canva
+
+**Programming:** Python | SQL | HTML & CSS
+
+---
+
+## 📞 Get in Touch
+
+📧 Email: [hhanaz0903@gmail.com](mailto:hhanaz0903@gmail.com)
+
+📱 Phone: 857-540-9193
+
+📍 Location: Boston, MA
