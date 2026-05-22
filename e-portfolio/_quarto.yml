@@ -1,6 +1,7 @@
 project:
   type: website
-  
+  output-dir: docs
+
 website:
   title: "E-PORTFOLIO"
   navbar:
@@ -17,6 +18,3 @@ format:
       - styles.css
     toc: true
     toc-location: left
-
-
-
