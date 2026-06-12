@@ -3,18 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "E-PORTFOLIO"
+  title: "🐰 Hana Chen"
   navbar:
+    background: "#E6E6EA"
+    foreground: "#1E1D21"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-    background: "#F5F5F5"
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/tsyr-rau-chen-hana/?locale=en-US"
+      - icon: youtube
+        href: "https://youtube.com/@hhana.?si=6RRV-s3G3lbGHlEd"
+      - icon: envelope
+        href: "mailto:hhanaz0903@gmail.com"
 
 format:
   html:
-    theme:
-      - lumen
-      - styles.css
+    theme: lumen
+    css: styles.css
     toc: true
     toc-location: left
+    toc-depth: 2
+    number-sections: false
+    smooth-scroll: true
+    page-layout: full

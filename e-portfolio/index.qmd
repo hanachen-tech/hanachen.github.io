@@ -1,63 +1,138 @@
 ---
-title: "Hana's E-portfolio"
-author: "Tsyr-Rau (Hana) Chen"
-date: "MAY 2026"
-format:
-  html:
-    theme: journal
-    toc: true
-    toc-location: left
+title: "Home"
 ---
 
-# Hi, I'm Hana Chen 
+::: {.hero-section}
+::: {.hero-text}
+# Hi, I'm Hana Chen
 
-<center>
+## Data Analytics × Marketing Strategy × Business Innovation
 
-![](S__42655761.jpg){width=400}
+I am a data-driven business professional passionate about turning insights into meaningful growth. My work combines **marketing strategy**, **data analytics**, and **creative storytelling** to solve business problems and support better decision-making.
 
-</center>
+Currently based in Boston, I am pursuing a Master's in **Applied Business Analytics** at Boston University while completing my MBA at National Taipei University.
 
-I'm a data-driven professional passionate about **marketing strategy**, **data analytics**, and **business innovation**. Currently pursuing my Master's in Applied Business Analytics at Boston University while completing my MBA at National Taipei University.
+::: {.hero-buttons}
+[View My Projects](projects.qmd){.btn-primary}
+[Contact Me](contact.qmd){.btn-secondary}
+:::
+:::
 
-## What I Do
+::: {.hero-image}
+![](S__42655761.jpg){fig-alt="Portrait of Hana Chen"}
+:::
+:::
 
-🎯 **Data Analysis & Visualization** - Transform complex datasets into actionable insights using Excel, Python, and SQL
+---
 
-📊 **Marketing Strategy** - Develop data-driven campaigns that drive engagement and growth
+## What I Bring
 
-💼 **Project Management** - Lead cross-functional teams to deliver impactful solutions
+::: {.card-grid}
+::: {.feature-card}
+### 📊 Data Analysis
 
-## Recent Highlights
+I transform complex information into clear, actionable insights using Excel, SQL, Python, and data visualization techniques.
+:::
 
-- **9,000+ Social Media Followers** - Grew from zero through strategic content creation
-- **Excel & SQL Expertise** - Analyzed survey data and delivery metrics for business insights
-- **Award Winner** - Received recognition at Taiwan Original X Award 2025 and OTOP Marketing Competition
+::: {.feature-card}
+### 🎯 Marketing Strategy
+
+I create audience-focused marketing strategies supported by consumer insights, content performance, and competitive analysis.
+:::
+
+::: {.feature-card}
+### 💼 Project Management
+
+I collaborate across teams, manage timelines, organize deliverables, and help turn ideas into practical outcomes.
+:::
+:::
+
+---
+
+## Impact at a Glance
+
+::: {.stats-grid}
+::: {.stat-card}
+### 9,000+
+
+Social media followers grown from zero through strategic content creation.
+:::
+
+::: {.stat-card}
+### 9,650
+
+Total video views generated through digital content and engagement strategy.
+:::
+
+::: {.stat-card}
+### 100+
+
+Participants reached through an award-winning design thinking exhibition.
+:::
+
+::: {.stat-card}
+### 5+
+
+Professional certificates in Python, SQL, and generative AI.
+:::
+:::
+
+---
 
 ## Featured Projects
 
+::: {.project-grid}
+::: {.project-card}
 ### 🍺 Brewery Marketing & Business Strategy
-Developed comprehensive marketing strategy and business plan for launching a brewery in Boston, including positioning analysis and sustainable promotional campaigns.
 
-### 📦 Delivery Time Analysis for Food Delivery Platforms
-Used SQL to analyze delivery factors and produced insights combining technical analysis with practical business recommendations.
+Developed a business and marketing strategy for launching a brewery in Boston, including market positioning, promotional planning, cost considerations, and sustainability-focused recommendations.
 
+[Read More](projects.qmd#brewery-marketing--business-strategy){.text-link}
+:::
+
+::: {.project-card}
+### 📦 Delivery Time Analysis
+
+Used SQL to analyze food delivery performance factors and identify insights related to delivery time, platform efficiency, and customer experience.
+
+[Read More](projects.qmd#delivery-time-analysis-for-food-delivery-platforms){.text-link}
+:::
+
+::: {.project-card}
 ### 🤖 Generative AI Food Waste Reduction App
-Co-developed mobile app prototype using generative AI to solve real-world sustainability challenges.
 
-## Skills at a Glance
+Co-developed an AI-powered mobile app prototype designed to reduce food waste through personalized recommendations and user-friendly digital experiences.
 
-**Data Analysis:** Excel | Python | SQL | PowerPoint | Canva
-
-**Languages:** English (Proficient, Duolingo 120) | Mandarin (Native)
-
-**Certifications:** Python Developer | SQL | RAG Agents with LLMs | Generative AI with Diffusion Models
+[Read More](projects.qmd#generative-ai-food-waste-reduction-app){.text-link}
+:::
+:::
 
 ---
 
-## Let's Connect! 📬
+## Personal Brand
 
-📧 [hhanaz0903@gmail.com](mailto:hhanaz0903@gmail.com)
+::: {.brand-statement}
+I believe strong business decisions come from both **analytical thinking** and **human understanding**. My goal is to use data, creativity, and strategy to build solutions that are practical, meaningful, and growth-oriented.
+:::
 
-📱 [LinkedIn](https://www.linkedin.com/in/tsyr-rau-chen-hana/?locale=en-US)
+---
 
-📍 Boston, MA | 857-540-9193
+## A Little More About Me
+
+::: {.mini-fun-row}
+<span>🎵 Piano, flute & guitar</span>
+<span>✈️ Travel dreamer</span>
+<span>🎥 Life documentation</span>
+<span>🐰 Cute animals lover</span>
+<span>🍰 Dessert & food enthusiast</span>
+:::
+---
+
+## Let's Connect
+
+If you are interested in marketing analytics, project management, business strategy, or data-driven storytelling, I would love to connect.
+
+::: {.hero-buttons}
+[Email Me](mailto:hhanaz0903@gmail.com){.btn-primary}
+[LinkedIn](https://www.linkedin.com/in/tsyr-rau-chen-hana/?locale=en-US){.btn-secondary}
+:::

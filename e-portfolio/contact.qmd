@@ -1,0 +1,58 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+Thank you for visiting my E-portfolio. I am open to opportunities related to **marketing**, **project management**, **business analytics**, and **data-driven strategy**.
+
+If you would like to connect, collaborate, or discuss potential opportunities, please feel free to reach out.
+
+---
+
+::: {.contact-box}
+## Let's Connect
+
+📧 **Email:** [hhanaz0903@gmail.com](mailto:hhanaz0903@gmail.com)  
+
+📱 **Phone:** 857-540-9193  
+
+📍 **Location:** Boston, MA  
+
+🔗 **LinkedIn:** [Tsyr-Rau Chen Hana](https://www.linkedin.com/in/tsyr-rau-chen-hana/?locale=en-US)
+:::
+
+---
+
+## Areas of Interest
+
+::: {.card-grid}
+::: {.feature-card}
+### Marketing
+
+Digital marketing, content strategy, branding, consumer insights, and campaign analysis.
+:::
+
+::: {.feature-card}
+### Project Management
+
+Cross-functional coordination, planning, communication, and execution.
+:::
+
+::: {.feature-card}
+### Business Analytics
+
+Data analysis, visualization, reporting, and business decision support.
+:::
+:::
+
+---
+
+## Message Me
+
+I am especially interested in opportunities where I can combine analytical thinking with creativity, communication, and business strategy.
+
+::: {.hero-buttons}
+[Send Email](mailto:hhanaz0903@gmail.com){.btn-primary}
+[Visit LinkedIn](https://www.linkedin.com/in/tsyr-rau-chen-hana/?locale=en-US){.btn-secondary}
+:::

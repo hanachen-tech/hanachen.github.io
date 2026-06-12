@@ -1,0 +1,202 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+This page highlights selected projects that demonstrate my skills in business strategy, data analysis, marketing, technology, and innovation.
+
+---
+
+## 🍺 Brewery Marketing & Business Strategy
+
+**Boston University**  
+Sep 2025 – Dec 2025
+
+::: {.project-detail}
+
+### Overview
+
+Developed a comprehensive business and marketing strategy for launching a brewery in the Boston area. The project required market research, positioning analysis, operational planning, cost estimation, and promotional strategy design.
+
+### Problem
+
+The brewery market in Boston is competitive, with many established local brands. A new brewery must clearly define its target customers, brand personality, competitive advantage, and marketing channels to attract customers and build loyalty.
+
+### My Role
+
+- Conducted internal and external business analysis.
+- Contributed to market positioning and customer segmentation.
+- Developed promotional campaign ideas aligned with sustainability and community engagement.
+- Helped estimate marketing and operational considerations.
+- Supported final presentation development.
+
+### Tools & Methods
+
+- Market research
+- SWOT analysis
+- Competitive analysis
+- Customer segmentation
+- Marketing strategy design
+- Business planning
+
+### Key Outcome
+
+The final strategy positioned the brewery as a community-oriented and sustainability-conscious brand with targeted promotional campaigns designed to attract young professionals, local residents, and craft beer enthusiasts.
+
+:::
+
+---
+
+## 📦 Delivery Time Analysis for Food Delivery Platforms
+
+**Boston University**  
+Sep 2025 – Dec 2025
+
+::: {.project-detail}
+
+### Overview
+
+Used SQL to analyze delivery time factors for food delivery platforms and identify operational insights that could improve efficiency and customer satisfaction.
+
+### Problem
+
+Food delivery platforms must balance speed, service quality, driver availability, restaurant preparation time, and customer expectations. Delays can reduce customer satisfaction and damage platform loyalty.
+
+### My Role
+
+- Used SQL queries to explore delivery-related data.
+- Analyzed factors that may influence total delivery time.
+- Interpreted results from both technical and business perspectives.
+- Collaborated with teammates to generate recommendations.
+- Contributed to final reporting and presentation materials.
+
+### Tools & Methods
+
+- SQL
+- Data exploration
+- Data filtering and aggregation
+- Business interpretation
+- Team-based analysis
+
+### Key Outcome
+
+The project produced practical recommendations for improving delivery operations, including identifying potential bottlenecks and connecting data findings to customer experience improvements.
+
+:::
+
+---
+
+## 🤖 Generative AI Food Waste Reduction App
+
+**National Taipei University**  
+Mar 2025 – May 2025
+
+::: {.project-detail}
+
+### Overview
+
+Co-developed a mobile app prototype that uses generative AI to help users reduce food waste through personalized suggestions, recipe ideas, and better food management.
+
+### Problem
+
+Food waste is a global sustainability issue. Many consumers waste food because they forget what ingredients they have, lack recipe ideas, or do not know how to use leftover items efficiently.
+
+### My Role
+
+- Co-developed the app concept and user experience.
+- Used generative AI concepts to design personalized food recommendation features.
+- Supported prototype development using CursorAI.
+- Designed a user-friendly interface to improve engagement and usability.
+- Connected sustainability goals with practical consumer behavior.
+
+### Tools & Methods
+
+- Generative AI
+- CursorAI
+- App prototyping
+- User experience design
+- Sustainability-focused innovation
+
+### Key Outcome
+
+The prototype demonstrated how AI can be applied to everyday sustainability challenges by helping users make better use of ingredients and reduce avoidable food waste.
+
+:::
+
+---
+
+## 🛡️ Anti-Cyberbullying Solution Design
+
+**FlyTech Foundation**  
+Jul 2023 – Aug 2024
+
+::: {.project-detail}
+
+### Overview
+
+Led a team in designing a solution to address cyberbullying through design thinking, user persona development, prototyping, and public presentation.
+
+### Problem
+
+Cyberbullying can seriously affect mental health, especially among young users. Effective solutions need to be empathetic, accessible, and based on real user pain points.
+
+### My Role
+
+- Led the team through the design thinking process.
+- Developed user personas and identified key pain points.
+- Participated in prototype design and testing.
+- Prepared and delivered exhibition presentation.
+- Engaged with exhibition visitors and communicated the solution clearly.
+
+### Tools & Methods
+
+- Design thinking
+- User persona development
+- Prototyping
+- Presentation
+- Team leadership
+
+### Key Outcome
+
+The project was presented to more than **100 participants** and won the **Popularity Award**, reflecting strong audience engagement and solution relevance.
+
+:::
+
+---
+
+## 🏆 OTOP Marketing Competition
+
+**Ministry of Economic Affairs, R.O.C.**  
+Mar 2023 – Oct 2023
+
+::: {.project-detail}
+
+### Overview
+
+Led a team in developing a marketing strategy for a local specialty product as part of the OTOP Marketing Competition.
+
+### Problem
+
+Local specialty products often face challenges in brand differentiation, customer awareness, and storytelling. The goal was to strengthen product positioning and improve market appeal.
+
+### My Role
+
+- Led team coordination and project planning.
+- Conducted market research and competitor analysis.
+- Developed branding and storytelling concepts.
+- Helped refine campaign direction and presentation structure.
+
+### Tools & Methods
+
+- Market research
+- Competitive analysis
+- Brand positioning
+- Storytelling
+- Marketing campaign planning
+
+### Key Outcome
+
+The project received the **Bronze Award** for creative branding, strategic thinking, and effective storytelling.
+
+:::

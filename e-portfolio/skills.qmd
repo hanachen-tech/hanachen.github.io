@@ -1,0 +1,152 @@
+---
+title: "Skills"
+---
+
+# Skills & Certifications
+
+My skill set combines business analysis, marketing strategy, data interpretation, and creative communication.
+
+---
+
+## Technical Skills
+
+::: {.skill-section}
+
+### Data Analysis & Business Analytics
+
+- Excel
+- SQL
+- Python
+- Survey data analysis
+- Data cleaning
+- Data visualization
+- Business reporting
+
+### Marketing & Communication
+
+- Social media marketing
+- Content strategy
+- SEO
+- Campaign planning
+- Consumer insights
+- Competitive analysis
+- Branding and storytelling
+
+### Tools
+
+- Microsoft Excel
+- PowerPoint
+- Canva
+- SQL platforms
+- Python
+- CursorAI
+- HTML & CSS
+
+:::
+
+---
+
+## Professional Strengths
+
+::: {.card-grid}
+::: {.feature-card}
+### Detail-Oriented Analysis
+
+I pay close attention to data accuracy, structure, and presentation quality.
+:::
+
+::: {.feature-card}
+### Creative Problem Solving
+
+I enjoy connecting business challenges with practical and creative solutions.
+:::
+
+::: {.feature-card}
+### Clear Communication
+
+I can translate complex information into simple, organized, and visually clear messages.
+:::
+
+::: {.feature-card}
+### Adaptability
+
+My international academic and professional experience helps me adjust quickly to new environments.
+:::
+:::
+
+---
+
+
+## Certifications
+
+These certifications reflect my continuous learning in **AI**, **cloud computing**, **programming**, **data analytics**, and **professional development**.
+
+---
+
+### AI & Generative AI
+
+::: {.cert-visual-grid}
+
+::: {.cert-visual-card}
+[![](<certificates/certificates/AWS Academy Graduate - Generative AI Foundations.png>){fig-alt="AWS Academy Graduate - Generative AI Foundations Certificate"}](<certificates/certificates/AWS Academy Graduate - Generative AI Foundations.png>)
+
+### AWS Academy Graduate - Generative AI Foundations
+
+**AWS Academy**
+
+Completed foundational training in generative AI concepts, applications, and responsible AI practices.
+:::
+
+::: {.cert-visual-card}
+[![](<certificates/certificates/Building RAG Agents with LLMs.png>){fig-alt="Building RAG Agents with LLMs Certificate"}](<certificates/certificates/Building RAG Agents with LLMs.png>)
+
+### Building RAG Agents with LLMs
+
+**NVIDIA**
+
+Explored retrieval-augmented generation concepts and LLM-based agent workflows.
+:::
+
+::: {.cert-visual-card}
+[![](<certificates/certificates/Efficient Large Language Model (LLM) Customization.png>){fig-alt="Efficient Large Language Model Customization Certificate"}](<certificates/certificates/Efficient Large Language Model (LLM) Customization.png>)
+
+### Efficient Large Language Model Customization
+
+**NVIDIA**
+
+Learned concepts related to efficient customization and adaptation of large language models for specific use cases.
+:::
+
+::: {.cert-visual-card}
+[![](<certificates/certificates/Generative AI with Diffusion Models.png>){fig-alt="Generative AI with Diffusion Models Certificate"}
+
+---
+
+## Languages
+
+::: {.info-grid}
+::: {.info-card}
+### Mandarin Chinese
+
+Native
+:::
+
+::: {.info-card}
+### English
+
+Proficient  
+Duolingo English Test: 120
+:::
+:::
+
+---
+
+## Career-Relevant Skill Summary
+
+| Area | Skills |
+|---|---|
+| Data Analysis | Excel, SQL, Python, survey analysis, data visualization |
+| Marketing | SEO, social media strategy, content planning, campaign analysis |
+| Business | Market research, competitive analysis, project planning |
+| Communication | Presentation, reporting, storytelling, cross-cultural collaboration |
+| Technology | Generative AI, CursorAI, HTML, CSS |

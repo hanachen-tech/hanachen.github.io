@@ -1,118 +1,167 @@
 ---
-title: "About Me & Full Experience"
+title: "About"
 ---
 
 # About Me
 
-I'm Hana Chen, a results-driven professional with a passion for leveraging data and strategic thinking to drive business growth. With experience spanning digital marketing, data analysis, and business innovation, I combine analytical rigor with creative problem-solving.
+I am **Tsyr-Rau (Hana) Chen**, a data-driven business professional with experience in digital marketing, data analysis, project coordination, and business innovation.
 
-Currently based in Boston, MA, I'm pursuing dual graduate degrees to deepen my expertise in applied business analytics and business administration.
+My background combines business training from Taiwan, international learning experience in France, and graduate studies in applied business analytics in the United States. This cross-cultural journey has shaped the way I approach problems: I value both structured analysis and creative thinking.
 
----
-
-## 📚 Education
-
-### Master of Applied Business Analytics
-**Boston University** | Sep 2025 – Present
-
-### Master of Business Administration
-**National Taipei University** | Sep 2023 – Present  
-GPA: 4.3/4.3
-
-### Bachelor of International Business and Trade
-**Soochow University** | Sep 2018 – Jun 2022  
-GPA: 4.3/4.3
-
-### Exchange Program
-**Rennes School of Business, France** | Sep 2021 – Feb 2022
+I am especially interested in roles related to **marketing**, **project management**, and **business/data analytics**, where I can connect consumer insights, data interpretation, and strategic execution.
 
 ---
 
-## 💼 Work Experience
+## My Professional Focus
 
-### Impact Learning Intern
-**YouthBuild Global** | Boston, MA | Jan 2026 – May 2026
+::: {.card-grid}
+::: {.feature-card}
+### Data-Driven Decision Making
 
-- Evaluated 2025 annual survey data using Excel to create detailed charts and perform quantitative analyses
-- Identified key trends and actionable insights that enhanced program evaluation reports
-- Developed clear and impactful data visualizations to support decision-making
-- Extracted actionable insights from complex datasets to improve program effectiveness
+I enjoy using data to understand business problems, identify patterns, and communicate insights in a clear and practical way.
+:::
 
-### Digital Marketing Intern
-**Gamesofa Inc.** | Taipei, Taiwan | Jul 2024 – Jun 2025
+::: {.feature-card}
+### Marketing with Human Insight
 
-- Created marketing content and managed two social media channels (Facebook, Instagram)
-- **Grew followers from 0 to 9,000 within 9 months**
-- Analyzed backend data and generated monthly performance reports on key metrics
-- Received Certificate of Appreciation in Business Category at 2025 Taiwan Original X Award for "CatCafe" project
+My marketing approach combines performance metrics with audience understanding, helping campaigns feel both strategic and relatable.
+:::
 
----
+::: {.feature-card}
+### Global Business Perspective
 
-## 🚀 Project Experience
-
-### Brewery Marketing & Business Strategy Project
-**Boston University** | Sep 2025 – Dec 2025
-
-- Developed comprehensive marketing strategy and business plan for brewery launch in Boston
-- Conducted internal and external analyses to determine positioning
-- Designed sustainable promotional campaigns with cost estimation and operational planning
-
-### Delivery Time Analysis for Food Delivery Platforms
-**Boston University** | Sep 2025 – Dec 2025
-
-- Used SQL to analyze and visualize delivery time factors
-- Produced reports combining technical analysis with practical business insights
-- Collaborated effectively within cross-functional team
-
-### Generative AI Food Waste Reduction App Prototype
-**National Taipei University** | Mar 2025 – May 2025
-
-- Co-developed mobile app prototype using generative AI and CursorAI platform
-- Designed user-friendly interface to enhance usability and engagement
-- Applied course concepts to solve real-world sustainability challenges
-
-### Anti-Cyberbullying Solution Design
-**FlyTech Foundation** | Jul 2023 – Aug 2024
-
-- Led team applying design thinking and user persona development
-- Participated in prototyping and testing process
-- Presented at exhibition attended by 100+ participants
-- **Won Popularity Award**
-
-### OTOP Marketing Competition
-**Ministry of Economic Affairs, R.O.C.** | Mar 2023 – Oct 2023
-
-- Led team in developing marketing strategy and competitive analysis
-- Conducted market research to refine campaign approach
-- **Achieved Bronze Award** for innovative branding and storytelling
+Through studying and working across Taiwan, France, and the United States, I have developed strong adaptability and cross-cultural communication skills.
+:::
+:::
 
 ---
 
-## 🎓 Certificates & Skills
+## Education
 
-### Languages
-- English (Proficient, Duolingo 120)
-- Mandarin (Native)
+::: {.timeline}
 
-### Professional Certifications
-- Sololearn – Python Developer
-- Sololearn – Introduction to SQL
-- NVIDIA – Building RAG Agents with LLMs
-- NVIDIA – Efficient Large Language Model Customization
-- NVIDIA – Generative AI with Diffusion Models
+::: {.timeline-item}
+### Boston University
 
-### Technical Skills
+**Master of Applied Business Analytics**  
+Boston, MA  
+Sep 2025 – Present
 
-**Data Analysis & Visualization:** Excel | PowerPoint | Canva
+Focus areas include data analysis, business analytics, database management, visualization, and applied decision-making.
+:::
 
-**Programming:** Python | SQL | HTML & CSS
+::: {.timeline-item}
+### National Taipei University
+
+**Master of Business Administration**  
+Taipei, Taiwan  
+Sep 2023 – Present  
+GPA: 4.3 / 4.3
+
+Focused on business strategy, marketing, management, and innovation.
+:::
+
+::: {.timeline-item}
+### Soochow University
+
+**Bachelor of International Business and Trade**  
+Taipei, Taiwan  
+Sep 2018 – Jun 2022  
+GPA: 4.3 / 4.3
+
+Built a strong foundation in international business, trade, economics, and management.
+:::
+
+::: {.timeline-item}
+### Rennes School of Business
+
+**Exchange Program**  
+Rennes, France  
+Sep 2021 – Feb 2022
+
+Gained international academic experience and strengthened cross-cultural communication skills.
+:::
+
+:::
 
 ---
 
-## 📞 Get in Touch
+## Career Direction
 
-📧 Email: [hhanaz0903@gmail.com](mailto:hhanaz0903@gmail.com)
+I aim to grow into a professional who can bridge **data analytics**, **marketing strategy**, and **business execution**. In the future, I hope to contribute to organizations that value creativity, data-informed decisions, and meaningful customer engagement.
 
-📱 Phone: 857-540-9193
+My long-term goal is to become a well-rounded business professional capable of supporting strategic planning, managing projects, and using analytics to drive measurable impact.
 
-📍 Location: Boston, MA
+---
+
+## Beyond Work
+
+Outside of analytics, marketing, and business strategy, I also enjoy exploring creative and meaningful parts of everyday life.
+
+::: {.fun-grid}
+
+::: {.fun-card}
+### 🎵 Music Lover
+
+Music has always been a meaningful part of my life. I play **piano**, **flute**, and **guitar**, and I enjoy how music allows me to express emotions, creativity, and personal stories beyond words.
+:::
+
+::: {.fun-card}
+### ✈️ Travel & World Explorer
+
+I love traveling and discovering new places, cultures, foods, and lifestyles. One of my personal dreams is to explore every corner of the world that inspires me and collect meaningful memories along the way.
+:::
+
+::: {.fun-card}
+### 🎥 Life Documentation
+
+I enjoy filming and documenting daily moments, travel memories, and creative life experiences. Through video, I like capturing small but meaningful details that might otherwise be forgotten.
+
+[Visit My YouTube Channel](https://youtube.com/@hhana.?si=6RRV-s3G3lbGHlEd){.text-link}
+:::
+
+::: {.fun-card}
+### 🐰 Cute Things Enthusiast
+
+I love bunnies, cats, dogs, and almost anything cute. Soft, adorable, and heartwarming things always bring positive energy to my day.
+:::
+
+::: {.fun-card}
+### 🍰 Foodie at Heart
+
+I am a true foodie and enjoy exploring different cuisines, desserts, cafés, bakeries, and beautiful dining experiences. Food is one of my favorite ways to connect with culture and everyday happiness.
+:::
+
+::: {.fun-card}
+### 📸 Creative Observer
+
+I enjoy observing small details in daily life, whether it is a beautiful street corner, a dessert shop, a travel moment, or a quiet scene that feels meaningful.
+:::
+
+:::
+
+---
+
+## Quick Facts
+
+::: {.info-grid}
+::: {.info-card}
+**Location**  
+Boston, MA
+:::
+
+::: {.info-card}
+**Interests**  
+Marketing, analytics, project management, branding, consumer insights
+:::
+
+::: {.info-card}
+**Languages**  
+Mandarin Chinese, English
+:::
+
+::: {.info-card}
+**Working Style**  
+Detail-oriented, collaborative, adaptable, curious
+:::
+:::
