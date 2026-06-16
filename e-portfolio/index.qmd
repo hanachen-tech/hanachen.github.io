@@ -19,7 +19,7 @@ Currently based in Boston, I am pursuing a Master's in **Applied Business Analyt
 :::
 
 ::: {.hero-image}
-![](S__42655761.jpg){fig-alt="Portrait of Hana Chen"}
+![](me.jpg){fig-alt="Portrait of Hana Chen"}
 :::
 :::
 
