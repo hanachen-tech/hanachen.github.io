@@ -2,9 +2,7 @@
 title: "About"
 ---
 
-# About Me
-
-I am **Tsyr-Rau (Hana) Chen**, a data-driven business professional with experience in digital marketing, data analysis, project coordination, and business innovation.
+👋🏻 I am **Tsyr-Rau (Hana) Chen**, a data-driven business professional with experience in digital marketing, data analysis, project coordination, and business innovation.
 
 My background combines business training from Taiwan, international learning experience in France, and graduate studies in applied business analytics in the United States. This cross-cultural journey has shaped the way I approach problems: I value both structured analysis and creative thinking.
 

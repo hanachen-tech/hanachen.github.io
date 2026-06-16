@@ -2,7 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
 
 Thank you for visiting my E-portfolio. I am open to opportunities related to **marketing**, **project management**, **business analytics**, and **data-driven strategy**.
 
