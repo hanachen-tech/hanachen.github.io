@@ -1,4 +1,4 @@
-# Hana Chen E-Portfolio
+# Tsyr Rau (Hana)Chen E-Portfolio
 
 This repository contains the source code and static website files for my personal E-portfolio. The website showcases my background, education, professional experience, projects, technical skills, certifications, awards, and personal interests.
 
